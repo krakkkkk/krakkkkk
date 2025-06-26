@@ -1,4 +1,4 @@
-Profesional polyglot (in programming languages)
+Programming is alright
 
 ![Profile views](https://komarev.com/ghpvc/?username=krakkkk)
 
